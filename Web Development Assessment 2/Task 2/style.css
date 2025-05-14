@@ -1,0 +1,30 @@
+/* Header styling */
+header {
+  background-color: #5036d6;
+  color: white;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Article styling */
+article {
+  padding: 20px;
+  background-color: #ffefef;
+  margin: 20px;
+}
+
+
